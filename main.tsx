@@ -22,7 +22,7 @@ blog({
   favicon: `${Deno.env.get("URL")}favicon.ico`,
   section: <Section/>,
   theme:"auto",
-  cover:`${Deno.env.get("URL")}assets/logos/backgroundbanner.png`,
+  cover:`${Deno.env.get("URL")}assets/logos/gradient-dark-blue-futuristic-digital-grid-background.jpg`,
   ogImage: {
     url: `${Deno.env.get("URL")}assets/logos/Frame.png`,
     twitterCard:"summary_large_image" 

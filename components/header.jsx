@@ -13,7 +13,7 @@ export function Header() {
         <div class="flex items-center justify-between border-b-2 border-gray-100 py-6 md:justify-start md:space-x-10">
           <div class="flex justify-start lg:w-0 lg:flex-1">
             <a href="#">
-              <span class="sr-only">Your Company</span>
+              <span class="sr-only">Taikun Channel</span>
               <svg
                 width="302"
                 height="49"
