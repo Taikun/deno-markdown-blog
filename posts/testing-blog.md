@@ -1,6 +1,6 @@
 ---
-title: Testing Taikun Blog!
-publish_date: 2023-01-13
+title: "Testing Taikun Blog!"
+publish_date: "2023-01-13T13:10:48Z"
 snippet: "Hello world blog post"
 author: "Taikun Corner"
 cover_html: <svg class="w-full" height="350" width="100%" background="black"><circle cx="50%" cy="170" r="150" stroke="white" stroke-width="10" fill="black" alpha="50%"/></svg>
