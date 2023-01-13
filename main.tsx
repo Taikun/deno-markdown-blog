@@ -6,17 +6,17 @@ import "https://deno.land/x/dotenv@v3.2.0/load.ts";
 
 
 blog({
-  author: "Rajdeep singh",
-  title: "Hello, my name is Rajdeep Singh",
+  author: "Taikun Corner",
+  title: "Hello, my name is Taikun Corner",
   description: "Nice to meet you",
-  avatar:`${Deno.env.get("URL")}assets/logos/profile.jpg`,
+  avatar:`${Deno.env.get("URL")}assets/logos/profile.png`,
   avatarClass: "rounded-full",
   coverTextColor:"white",
   links: [
-    { title: "Email", url: "mailto:officialrajdeepsingh@gmail.com" },
-    { title: "GitHub", url: "https://github.com/officialrajdeepsingh" },
-    { title: "Twitter", url: "https://twitter.com/Official_R_deep" },
-    { title: "Linkedin", url: "https://www.linkedin.com/in/officalrajdeepsingh/" },
+    { title: "Email", url: "mailto:taikunchannel@gmail.com" },
+    { title: "GitHub", url: "https://github.com/Taikun" },
+    { title: "Twitter", url: "https://twitter.com/TaikunChannel" },
+    { title: "Linkedin", url: "https://www.linkedin.com/in/daniel-lara-2b091011/" },
   ],
   lang: "en",
   favicon: `${Deno.env.get("URL")}favicon.ico`,
